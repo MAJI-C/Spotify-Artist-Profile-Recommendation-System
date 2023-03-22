@@ -28,7 +28,7 @@ The project does not output any files or data. It is a proof-of-concept project 
 2. Explore other recommendation algorithms, such as content-based filtering and hybrid filtering, to determine which approach provides the best results.
 3. Build a user interface to enable users to search for artist profiles and receive recommendations based on their preferences.
 
-### Built With
+### Built With:
 
 - Python 3.x
 - numpy
